@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29306.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "circunferencia", "circunferencia\circunferencia.csproj", "{4D4206BC-8AA8-415B-BC7E-8CDC24882FB1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4D4206BC-8AA8-415B-BC7E-8CDC24882FB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D4206BC-8AA8-415B-BC7E-8CDC24882FB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D4206BC-8AA8-415B-BC7E-8CDC24882FB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D4206BC-8AA8-415B-BC7E-8CDC24882FB1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F1963567-3811-4AE4-979E-B26072B16F4C}
+	EndGlobalSection
+EndGlobal
