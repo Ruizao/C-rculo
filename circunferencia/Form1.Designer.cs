@@ -69,12 +69,11 @@
             // label4
             // 
             this.label4.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.label4.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label4.Font = new System.Drawing.Font("Microsoft Sans Serif", 21.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label4.Location = new System.Drawing.Point(51, 225);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(401, 166);
+            this.label4.Size = new System.Drawing.Size(406, 166);
             this.label4.TabIndex = 5;
-            this.label4.Text = "label4";
             this.label4.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // radioButton1
@@ -120,7 +119,7 @@
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(204, 45);
             this.button1.TabIndex = 9;
-            this.button1.Text = "Verifica";
+            this.button1.Text = "Calcular";
             this.button1.UseVisualStyleBackColor = true;
             this.button1.Click += new System.EventHandler(this.Button1_Click);
             // 

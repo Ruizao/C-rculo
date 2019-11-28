@@ -20,10 +20,10 @@ namespace circunferencia
         circulo c = new circulo();
         private void Button1_Click(object sender, EventArgs e)
         {
-            c.Raio = textBox1.Text;
-            if (radioButton1.Checked) label4.Text = c.Area;
-            else if (radioButton2.Checked) label4.Text = c.Perimetro;
-            else if (radioButton3.Checked) label4.Text = c.Diagonal;
+            c.Raio = Convert.ToDouble(textBox1.Text);
+            if (radioButton1.Checked) label4.Text = c.Area.ToString();
+            else if (radioButton2.Checked) label4.Text = c.Perímetro.ToString();
+            else if (radioButton3.Checked) label4.Text = c.Diametro.ToString();
         }
     }
 }
